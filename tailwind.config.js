@@ -14,6 +14,13 @@ export default {
           "Noto Color Emoji",
         ],
       },
+      colors: {
+        brand: {
+          teal: "#00474b",
+          "light-teal": "#2abdad",
+          "light-blue": "#9fe8df",
+        },
+      },
     },
   },
   plugins: [],
